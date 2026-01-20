@@ -32,7 +32,8 @@ Unlike standard demographic analysis, this project focuses on **financial behavi
 ## 📸 Dashboard Preview
 *(A visual representation of the Churn Analysis and LTV segments)*
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](<img width="1287" height="717" alt="Churn dahsboard" src="https://github.com/user-attachments/assets/8fd3c43f-6985-4e28-89b3-be855655e246" />
+shot.png)
 
 ## 📂 Repository Structure
 * `churn_analysis.py`: Python script for data cleaning, EDA, and Random Forest modeling.
