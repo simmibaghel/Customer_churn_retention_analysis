@@ -37,7 +37,7 @@ shot.png)
 
 ## 📂 Repository Structure
 * `churn_analysis.py`: Python script for data cleaning, EDA, and Random Forest modeling.
-* `Bank_Churn_Dashboard.pbix`: (Optional) The Power BI source file.
+* `Bank_Churn_Dashboard.pbix`: The Power BI source file.
 * `README.md`: Project documentation.
 
 ---
